@@ -21,7 +21,6 @@ Hello, nice to meet you, I'm Guilherme and I started in this world with 16 years
 - Stryker Mutator
 - Unit testing
 
-### My Daily Card
 <a href="https://app.daily.dev/guiconceicao"><img src="https://github.com/guilhermeconceicao/guilhermeconceicao/blob/main/devcard.svg" width="400" alt="Guilherme's Dev Card"/></a>
 
 Feel free to get in touch o/
