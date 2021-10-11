@@ -14,7 +14,6 @@ Hello, nice to meet you, I'm Guilherme and I started in this world with 16 years
 - Hangfire
 - HTML and AngularJS
 - Kubernetes
-- Microservices architecture
 - Microsoft SQL
 - MongoDB
 - SOLID
