@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hello, nice to meet you, I'm Guilherme and I started in this world with 16 years old. During this time, I faced several challenges and learned many technologies, beyond understand the developer's role in business analysis.
+Hello, nice to meet you, I'm Guilherme and I started in technology world with 16 years old. During this time, I faced several challenges and learned many technologies.
 
 ### SKILLS AND TOOLS
 - Azure Blob Storage
